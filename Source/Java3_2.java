@@ -44,7 +44,7 @@ class Shimla extends Hillstations {
     }
 }
 
-public class Main2 {
+public class Java3_2 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

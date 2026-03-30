@@ -25,7 +25,7 @@ class Shapes {
     }
 }
 
-public class Main1 {
+public class Java3_1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
