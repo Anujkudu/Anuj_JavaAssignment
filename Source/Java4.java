@@ -8,7 +8,7 @@ class InvalidAmountException extends Exception {
     }
 }
 
-public class BankSystem {
+public class Java4 {
 
     static Scanner sc = new Scanner(System.in);
 
