@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-// Custom Exception
+// this is creating my own exception 
 class InvalidAmountException extends Exception {
     InvalidAmountException(String msg) {
         super(msg);
